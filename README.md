@@ -1,2 +1,2 @@
 # learnings_javascript_language
-its the learnings, javascript!!!
+its the learnings, javascript!
